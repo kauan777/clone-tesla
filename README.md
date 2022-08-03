@@ -10,6 +10,8 @@ Fullstack Next.js E-commerce
 
 - React
 - TypeScript
+- Framer Motion
+- Styled Components
 
 <br>
 
